@@ -1,0 +1,6 @@
+{
+  "name": "ARISE",
+  "description": "Solo Leveling inspired gamified habit tracker, hunter status system, and academic syllabus study dashboard for Winter and Summer Arc growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
